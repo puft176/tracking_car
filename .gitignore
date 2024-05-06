@@ -76,6 +76,6 @@ JLinkLog.txt
 *.htm
 *.sct
 *.map
-*.Administrator
+*.Admin
 *.uvopt
 Library/*
